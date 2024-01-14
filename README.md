@@ -1,1 +1,1 @@
-๒๒๒เข้าที่ Scene -> SampleScene เพื่อตรวจงานครับ
+เข้าที่ Scene -> SampleScene เพื่อตรวจงานครับ
